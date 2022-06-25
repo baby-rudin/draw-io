@@ -1,1 +1,167 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T09:56:11.579Z" agent="5.0 (Windows)" version="20.0.3" etag="TgxsE4_I6sxO9xFVfevn" type="github"><diagram id="cMsvKdsmTLDo1lseAXOs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-25T10:17:58.126Z" agent="5.0 (Windows)" etag="NjrqnbPp3pI5wlV2wODi" version="20.0.3" type="github">
+  <diagram id="cMsvKdsmTLDo1lseAXOs" name="Page-1">
+    <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-1" target="ZLUaNZXfG3S93jSpwlnY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-1" value="&lt;div&gt;设置CO和O&lt;sub&gt;2&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;与表面碰撞的概率&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-2" target="ZLUaNZXfG3S93jSpwlnY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-2" target="ZLUaNZXfG3S93jSpwlnY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-2" value="&lt;div&gt;生成随机数&lt;/div&gt;&lt;div&gt;确定碰撞分子种类&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-5" target="ZLUaNZXfG3S93jSpwlnY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-5" value="CO碰撞" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-6" target="ZLUaNZXfG3S93jSpwlnY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-6" value="O2碰撞" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-9" target="ZLUaNZXfG3S93jSpwlnY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-9" value="随机选取一个格点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-15" target="ZLUaNZXfG3S93jSpwlnY-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-15" value="&lt;div&gt;随机选取&lt;/div&gt;&lt;div&gt;两个相邻格点&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="470" />
+              <mxPoint x="200" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-19" target="ZLUaNZXfG3S93jSpwlnY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-19" value="格点为空" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-22" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-25" target="ZLUaNZXfG3S93jSpwlnY-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-25" value="CO吸附" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-27" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="470" />
+              <mxPoint x="620" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-28" target="ZLUaNZXfG3S93jSpwlnY-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-28" value="两个格点都为空" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="430" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-31" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="569" y="440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-32" target="ZLUaNZXfG3S93jSpwlnY-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-32" value="O2吸附" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="515" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-35" target="ZLUaNZXfG3S93jSpwlnY-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="690" />
+              <mxPoint x="200" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-35" value="相邻四个格点有O" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="650" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-37" target="ZLUaNZXfG3S93jSpwlnY-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-37" target="ZLUaNZXfG3S93jSpwlnY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="690" />
+              <mxPoint x="620" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-37" value="相邻六个格点有CO" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="421.5" y="650" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="800" />
+              <mxPoint x="200" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-39" value="&lt;div&gt;同时去除CO和O&lt;/div&gt;&lt;div&gt;表示反应&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-43" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="660" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLUaNZXfG3S93jSpwlnY-45" target="ZLUaNZXfG3S93jSpwlnY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="800" />
+              <mxPoint x="620" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-45" value="&lt;div&gt;同时去除CO和O&lt;/div&gt;&lt;div&gt;表示反应&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-47" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="730" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLUaNZXfG3S93jSpwlnY-50" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="569" y="660" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
