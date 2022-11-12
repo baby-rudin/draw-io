@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T03:14:27.093Z" agent="5.0 (Windows)" version="20.3.1" etag="YJiXWSk93DMwIf7RdQ6L" type="github"><diagram id="YwS44fHjuzWyZxPIYiSC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-12T04:27:58.324Z" agent="5.0 (Windows)" etag="SDvO7Y070WtQd_027Mth" version="20.5.3" type="github">
+  <diagram id="YwS44fHjuzWyZxPIYiSC" name="第 1 页">
+    <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-1" target="T6y9vuJQYdU9k44yFDkW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-2" target="T6y9vuJQYdU9k44yFDkW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-2" value="&lt;div&gt;读取基元反应的&lt;/div&gt;&lt;div&gt;活化能和指前影子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-3" target="T6y9vuJQYdU9k44yFDkW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-3" value="&lt;div&gt;初始化晶格和模拟&lt;/div&gt;&lt;div&gt;中所需的数据结构&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-5" target="T6y9vuJQYdU9k44yFDkW-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="560" />
+              <mxPoint x="300" y="560" />
+              <mxPoint x="300" y="170" />
+              <mxPoint x="400" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-5" value="&lt;div&gt;设置 t = 0&lt;/div&gt;&lt;div&gt;开始模拟&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-8" target="T6y9vuJQYdU9k44yFDkW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-8" value="&lt;div&gt;计算每种反应的&lt;/div&gt;&lt;div&gt;速率常数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-9" target="T6y9vuJQYdU9k44yFDkW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-9" value="&lt;div&gt;生成随机数决定&lt;/div&gt;&lt;div&gt;发生的反应&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-11" target="T6y9vuJQYdU9k44yFDkW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-11" value="&lt;div&gt;从反应列表中&lt;/div&gt;&lt;div&gt;随机选一个发生&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-13" target="T6y9vuJQYdU9k44yFDkW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-13" value="&lt;div&gt;更新表面状态&lt;/div&gt;&lt;div&gt;更新反应列表&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-15" target="T6y9vuJQYdU9k44yFDkW-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="580" />
+              <mxPoint x="550" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6y9vuJQYdU9k44yFDkW-15" target="T6y9vuJQYdU9k44yFDkW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-15" value="达到模拟时长" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="555" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="670" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6y9vuJQYdU9k44yFDkW-21" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="394" y="630" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
